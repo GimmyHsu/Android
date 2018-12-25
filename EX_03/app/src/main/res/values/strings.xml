@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EX_03</string>
+    <string name="str1">性別:</string>
+    <string name="str2">年齡:</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="male_agemin">小於30歲</string>
+    <string name="male_agemid">30~35歲</string>
+    <string name="male_agemax">大於35歲</string>
+    <string name="female_agemin">小於27歲</string>
+    <string name="female_agemid">27~32歲</string>
+    <string name="female_agemax">大於32歲</string>
+    <string name="strbtn">確定</string>
+    <string name="str3">建議:</string>
+    <string name="sug_not_hurry">還不急~</string>
+    <string name="sug_find">開始找對象...</string>
+    <string name="sug_get_marry">趕快結婚吧!</string>
+</resources>

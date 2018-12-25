@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EX_07</string>
+    <string name="title">跟電腦猜拳</string>
+    <string name="computer">電腦出拳</string>
+    <string name="you">玩家出拳</string>
+    <string name="result">輸贏結果: \n</string>
+    <string name="scissors">剪刀</string>
+    <string name="stone">石頭</string>
+    <string name="cloth">布</string>
+    <string name="win">太棒了!你贏了!</string>
+    <string name="loss">你輸了,再試一次吧!</string>
+    <string name="even">平手!</string>
+    <string name="setting">Settings</string>
+</resources>

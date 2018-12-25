@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EX_04</string>
+    <string name="suggest">建議:</string>
+    <string name="sug_not_hurry">還不急</string>
+    <string name="sug_find">開始找對象</string>
+    <string name="sug_get_marry">趕快結婚</string>
+    <string name="male">男</string>
+    <string name="str_sex">性別:</string>
+    <string name="str_age">年齡:</string>
+    <string-array name="sexlist">
+
+        <item>請選擇性別~~~</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string name="yes">確定</string>
+</resources>

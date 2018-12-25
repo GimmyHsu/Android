@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EX_11</string>
+    <string name="title">跟電腦猜拳</string>
+    <string name="computer">電腦出拳</string>
+    <string name="you">玩家出拳</string>
+    <string name="result">輸贏結果: \n</string>
+    <string name="scissors">剪刀</string>
+    <string name="stone">石頭</string>
+    <string name="cloth">布</string>
+    <string name="win">太棒了!你贏了!</string>
+    <string name="loss">你輸了,再試一次吧!</string>
+    <string name="even">平手!</string>
+    <string name="setting">Settings</string>
+    
+    <string name="totalset">全部局數:</string>
+    <string name="youwin">你贏:</string>
+    <string name="comwin">電腦贏:</string>
+    <string name="draw">平手:</string>
+</resources>
