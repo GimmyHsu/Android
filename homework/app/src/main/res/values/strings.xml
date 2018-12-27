@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">温湿度转换</string>
+    <string name="s_c">摄氏:</string>
+    <string name="s_f">华氏</string>
+    <string name="s_d">度</string>
+    <string name="s_t">转换</string>
+    <string name="r">结果:</string>
+</resources>
+
