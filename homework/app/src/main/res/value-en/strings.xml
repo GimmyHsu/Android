@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">temperature and humidity conversion</string>
+    <string name="s_c">Celsius: </string>
+    <string name="s_f">Fahrenheit </string>
+    <string name=" S_d">degree</string>
+    <string name="s_t">convert </string>
+    <string name="r">result: </string>
+</resources>
